@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mobile Payslip</string>
+    <string name="data_is_empty">Data is empty</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="title">CGV Movie Update</string>
+    <string name="title_app">CGV Movie Update</string>
+</resources>
